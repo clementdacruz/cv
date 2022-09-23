@@ -1,0 +1,38 @@
+html{
+	background-color: #409AE0;
+	font-family: Arial;
+}
+
+body{
+	width: 500px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 0 200px 200px 200px;
+	border: 0px solid black;
+	border-radius: 10% 30% 50% 70%;
+	position: absolute;
+	top: 20px;
+	left: 500px;
+}
+h1{
+	position: absolute;
+}
+
+.logo{
+	float: left;
+	position: absolute;
+	left: 120px;
+	top: 00px;
+}
+
+.br{
+	margin-bottom: 80px;
+}
+
+.pro{
+	box-shadow: 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+.pro:hover{
+	font-weight: bold;
+}
